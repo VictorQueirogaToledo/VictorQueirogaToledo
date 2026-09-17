@@ -30,6 +30,20 @@ O que costuma diferenciar os projetos aqui:
 - **Privilégio mínimo por padrão** em integrações de dados e acessos de terceiros.
 - **Diagnóstico até a causa raiz**, inclusive quando ela está na camada física.
 
+## Trajetória
+
+Estou em TI desde **novembro de 2022** — e a maior parte desse tempo com a mão na rede.
+
+| Período | Onde | O que eu fazia |
+| --- | --- | --- |
+| **2026 — atual** | **QSI — Queiroga Solutions IT** · fundador e responsável técnico | Projetos próprios de infraestrutura: rede de três prédios de uma clínica, montagem da TI de um prédio público assumido em licitação, comércio e residencial. MikroTik, switches, APs, organização e documentação. |
+| **Jul/2025 — atual** | **VMI Security** · Analista de Infraestrutura | AD e GPOs, Windows Server e Linux, Hyper-V, switches e VLANs, rede cabeada e Wi-Fi (Ubiquiti / UniFi), FortiGate, Zabbix e Grafana, servidor de impressão e Zebra, Microsoft 365 e Entra ID, governança em ambiente ISO 27001 / 9001 / 14001. |
+| **Mar/2024 — Jul/2025** | **NEC Energética** (Grupo CEI) · Assistente de TI | TI do escritório: suporte, infraestrutura e sistemas internos, com apoio ao NOC. |
+| **2023 — Mar/2024** | **BEI — Brasil Energia Inteligente** (Grupo CEI) · Assistente de TI | NOC noturno somado à TI administrativa: Microsoft 365, SharePoint, Teams, AD, NDD Print, Bitdefender e suporte a usuários. |
+| **Nov/2022 — Mar/2023** | **NOC** · Operador de Computador (terceiro) | Escala 12x36: comunicação entre a sede em BH e usinas hidrelétricas e solares no Brasil inteiro, **60+ MikroTik**, VLANs, links de operadora, CFTV e as estações do COG para operação remota das usinas. |
+
+Do monitoramento de um ambiente crítico à administração da infraestrutura inteira de uma empresa — e, em paralelo, projetos próprios. A base de redes e troubleshooting veio do NOC; o cuidado com documentação e processo veio do ambiente auditado; a visão de projeto veio da QSI.
+
 ## Formação e certificações
 
 - Formação: _(preencher)_

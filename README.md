@@ -12,7 +12,7 @@
   <a href="https://victorqueirogatoledo.github.io">Portfólio</a> •
   <a href="https://github.com/VictorQueirogaToledo/apresentacoes">Apresentações</a> •
   <a href="https://queirogasolution.com.br">QSI</a> •
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/victor-queiroga-toledo/">LinkedIn</a>
 </p>
 
 ---

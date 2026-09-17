@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Victor Queiroga 👋</h1>
 
 <p align="center">
-  <strong>Infraestrutura de TI | Redes e Telefonia IP | Consultoria</strong>
+  <strong>Infraestrutura de TI | Switches, Wi-Fi e Cabeamento | Servidores e Monitoramento</strong>
 </p>
 
 <p align="center">
-  Redes, servidores e telefonia que ficam de pé — com documentação que sobrevive à troca de quem opera.
+  Switch, Wi-Fi, cabeamento e servidores que ficam de pé — com documentação que sobrevive à troca de quem opera.
 </p>
 
 <p align="center">
@@ -19,9 +19,11 @@
 
 ## Sobre mim
 
-Sou **Analista de Infraestrutura** e atuo na ponta: rede, servidores, Microsoft 365, Active Directory, telefonia IP, CFTV, controle de acesso e salas de reunião. Respondo por projeto, execução, documentação e suporte N1 e N2 — do rack ao relatório de auditoria.
+Sou **Analista de Infraestrutura** e atuo na ponta: **switches e VLANs, Wi-Fi corporativo, cabeamento estruturado e configuração de servidores** — é aí que está o meu trabalho e é o que eu gosto de fazer. Em volta disso vêm Microsoft 365 e Active Directory, monitoramento, impressão e o suporte N1 e N2. Respondo por projeto, execução, documentação e operação — do rack ao relatório de auditoria.
 
-Também sou responsável pela **QSI — Queiroga Solutions IT**, consultoria de infraestrutura para empresas com ambiente que cresceu sem projeto: cabeamento sem identificação, rede plana, telefonia sem inventário, nenhum desenho de referência. O trabalho é entrar nesse ambiente sem derrubar produção, organizar e deixar registrado.
+Telefonia IP, CFTV, controle de acesso e salas de reunião eu atendo por consequência da área: quem cuida da rede acaba cuidando do que passa por ela. Tenho entrega registrada em todos eles, mas não é onde eu me posiciono.
+
+Também sou responsável pela **QSI — Queiroga Solutions IT**, consultoria de infraestrutura para empresas com ambiente que cresceu sem projeto: cabeamento sem identificação, rede plana, switch na configuração de fábrica, nenhum desenho de referência. O trabalho é entrar nesse ambiente sem derrubar produção, organizar e deixar registrado.
 
 O que costuma diferenciar os projetos aqui:
 
@@ -68,7 +70,9 @@ Do monitoramento de um ambiente crítico à administração da infraestrutura in
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-`Redes e VLANs` `MikroTik / RouterOS` `Switches L2` `Wi-Fi corporativo` `Firewall` `Microsoft 365` `Entra ID` `Active Directory` `GPO` `Proxmox` `Hyper-V` `Telefonia IP (Issabel / Avaya)` `CFTV e controle de acesso` `Monitoramento e observabilidade (Zabbix, Grafana, PRTG)` `Backup (Acronis)` `SQL Server / MySQL` `Power BI` `PowerShell` `Documentação (POP, GMUD, as-built)`
+`Switches L2` `VLANs 802.1Q` `MikroTik / RouterOS` `Wi-Fi corporativo` `Ubiquiti / UniFi` `Cabeamento estruturado` `Windows Server` `Linux` `Hyper-V` `Proxmox` `Active Directory` `GPO` `Microsoft 365` `Entra ID` `Firewall (FortiGate / SonicWall)` `Monitoramento e observabilidade (Zabbix, Grafana, PRTG)` `Backup (Acronis)` `SQL Server / MySQL` `Power BI` `PowerShell` `Documentação (POP, GMUD, as-built)`
+
+Por consequência da área: `Telefonia IP (Issabel / Asterisk)` `CFTV e NVR` `Controle de acesso`
 
 ## Projetos em destaque
 
@@ -76,9 +80,9 @@ Do monitoramento de um ambiente crítico à administração da infraestrutura in
 | --- | --- | --- |
 | [Rede segmentada com VLANs](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/rede-vlans-mikrotik) | Migração de rede plana para 3 VLANs (gerência, corporativa e funcionários) com roteador, switch L2 e APs gerenciados, sem parada de produção. | MikroTik, RouterOS, VLAN, Wi-Fi |
 | [Diagnóstico de Wi-Fi travado em 100 Mbps](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/diagnostico-wifi-camada-fisica) | Investigação de link de 600 Mbps entregando 93 Mbps no Wi-Fi até a causa raiz na camada física (par do cabo mal encaixado). | Wi-Fi, cabeamento, troubleshooting |
-| [Telefonia IP — inventário e padronização](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/telefonia-ip-issabel) | Levantamento completo de ramais SIP, filas, troncos e URAs, com padronização de codecs em parque de centenas de ramais. | Issabel, Asterisk, SIP |
 | [Power BI sobre o CDR do PABX](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/powerbi-cdr-telefonia) | Indicadores de atendimento a partir do CDR, com consolidação por chamada (e não por perna) e acesso de leitura com privilégio mínimo. | Power BI, MySQL, SQL, ODBC |
 | [Deploy per-user via script de logon](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/deploy-gpo-web-agent) | Distribuição de agente per-user em todo o parque via GPO, com script idempotente e log por execução. | GPO, PowerShell, Active Directory |
+| [Telefonia IP — inventário e padronização](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/telefonia-ip-issabel) | Levantamento completo de ramais SIP, filas, troncos e URAs, com padronização de codecs em parque de centenas de ramais. | Issabel, Asterisk, SIP |
 | [Site estático com Pages + Cloudflare](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/site-estatico-pages-cloudflare) | Publicação de site institucional com CI, domínio próprio, TLS estrito e cabeçalhos de segurança. | GitHub Pages, Cloudflare, CI/CD |
 
 Cada linha abre a apresentação do projeto: contexto, decisões técnicas, resultado e lições.
@@ -86,7 +90,7 @@ Cada linha abre a apresentação do projeto: contexto, decisões técnicas, resu
 ## No momento
 
 - Estruturando a **QSI** em contratos recorrentes de infraestrutura e documentação.
-- Levando telefonia e infraestrutura para dentro do **Power BI**, com indicadores que os gestores realmente usam.
+- Levando dados de infraestrutura e de atendimento para dentro do **Power BI**, com indicadores que os gestores realmente usam.
 - Padronizando **POPs, GMUDs e as-built** para que qualquer técnico assuma o ambiente sem depender de quem implantou.
 - Automatizando rotinas com **PowerShell** (backup de configuração, inventário, deploy).
 

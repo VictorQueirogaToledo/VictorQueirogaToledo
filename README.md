@@ -80,12 +80,16 @@ Por consequência da área: `Telefonia IP (Issabel / Asterisk)` `CFTV e NVR` `Co
 | --- | --- | --- |
 | [Rede segmentada com VLANs](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/rede-vlans-mikrotik) | Migração de rede plana para 3 VLANs (gerência, corporativa e funcionários) com roteador, switch L2 e APs gerenciados, sem parada de produção. | MikroTik, RouterOS, VLAN, Wi-Fi |
 | [Diagnóstico de Wi-Fi travado em 100 Mbps](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/diagnostico-wifi-camada-fisica) | Investigação de link de 600 Mbps entregando 93 Mbps no Wi-Fi até a causa raiz na camada física (par do cabo mal encaixado). | Wi-Fi, cabeamento, troubleshooting |
+| [Backup versionado de configuração de rede](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/backup-config-rede-powershell) | Export e backup do roteador trazidos para um repositório local, com a diferença do que mudou desde a última rodada. | PowerShell, RouterOS, SSH |
 | [Power BI sobre o CDR do PABX](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/powerbi-cdr-telefonia) | Indicadores de atendimento a partir do CDR, com consolidação por chamada (e não por perna) e acesso de leitura com privilégio mínimo. | Power BI, MySQL, SQL, ODBC |
 | [Deploy per-user via script de logon](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/deploy-gpo-web-agent) | Distribuição de agente per-user em todo o parque via GPO, com script idempotente e log por execução. | GPO, PowerShell, Active Directory |
+| [Higiene do inventário de endpoints](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/higiene-inventario-endpoints) | 76 máquinas sem reportar ao antivírus, 36 ainda consumindo licença — classificadas por faixa de abandono, com plano de ação por faixa. | Endpoint protection, inventário, AD |
+| [Privilégio mínimo para a equipe de dados](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/acesso-dados-privilegio-minimo) | Acesso ao banco de um PABX por views de dimensão com segurança de definidor, sem expor as senhas SIP guardadas em texto plano. | MySQL, views, GRANT |
 | [Telefonia IP — inventário e padronização](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/telefonia-ip-issabel) | Levantamento completo de ramais SIP, filas, troncos e URAs, com padronização de codecs em parque de centenas de ramais. | Issabel, Asterisk, SIP |
 | [Site estático com Pages + Cloudflare](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/site-estatico-pages-cloudflare) | Publicação de site institucional com CI, domínio próprio, TLS estrito e cabeçalhos de segurança. | GitHub Pages, Cloudflare, CI/CD |
+| [Cabeçalhos de segurança e CSP](https://github.com/VictorQueirogaToledo/apresentacoes/tree/main/hardening-cabecalhos-csp) | Seis cabeçalhos aplicados na borda de um site estático e um script de terceiro integrado sem afrouxar a política. | CSP, HSTS, TLS, API |
 
-Cada linha abre a apresentação do projeto: contexto, decisões técnicas, resultado e lições.
+São dez apresentações; cada linha abre a sua: contexto, decisões técnicas, resultado e lições.
 
 ## No momento
 

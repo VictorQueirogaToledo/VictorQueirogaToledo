@@ -49,7 +49,7 @@ Do monitoramento de um ambiente crítico à administração da infraestrutura in
 
 ## Formação e certificações
 
-- Formação: _(preencher)_
+- **Tecnólogo em Redes de Computadores** — PUC Minas *(cursando)*
 - Certificações: _(preencher)_
 - Experiência com documentação e auditoria **ISO 27001 / 9001 / 14001**
 
